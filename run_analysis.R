@@ -102,4 +102,5 @@ X2 <- X1 %>%
   summarise_all(funs(mean))
 
 # Write
-write.table(X2, file = "tidy_data.txt", row.names = FALSE)
+write.table(X2, file = "tidied_data.txt", row.names = FALSE, quote = FALSE, sep=",")
+
