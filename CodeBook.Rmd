@@ -1,0 +1,24 @@
+---
+title: "CodeBook"
+author: "Massimo Noro"
+date: "05/05/2018"
+output: html_document
+---
+
+# CodeBook
+
+Getting and Cleaning Data (Coursera) Assigment. 
+
+The Original Data as described in the codebook has been modified.
+
+The original data included 561 features. 
+
+For detailed description of the original dataset, please see features_info.txt in the zipped dataset file.
+
+This tidy dataset contains:
+
+* Subject
+* Activity
+* Mean
+* Standard Deviation
+
